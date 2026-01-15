@@ -34,6 +34,8 @@ Docker (quando necessário)
 
 RabbitMq (quando necessário)
 
+Documentação com Swagger
+
 ## 🚀 Padrões adotados
 
 Código limpo e organizado
