@@ -1,0 +1,12 @@
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\bin\Debug\net10.0\fer.Domain.deps.json
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\bin\Debug\net10.0\fer.Domain.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\bin\Debug\net10.0\fer.Domain.pdb
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\obj\Debug\net10.0\fer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\obj\Debug\net10.0\fer.Domain.AssemblyInfoInputs.cache
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\obj\Debug\net10.0\fer.Domain.AssemblyInfo.cs
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\obj\Debug\net10.0\fer.Domain.csproj.CoreCompileInputs.cache
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\obj\Debug\net10.0\fer.Domain.sourcelink.json
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\obj\Debug\net10.0\fer.Domain.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\obj\Debug\net10.0\refint\fer.Domain.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\obj\Debug\net10.0\fer.Domain.pdb
+D:\___DesafiosTec\desafio.uber\fer\fer.Domain\obj\Debug\net10.0\ref\fer.Domain.dll

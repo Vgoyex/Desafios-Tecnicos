@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "fer.Controllers.TransportController",
+    "Method": "GetArrival",
+    "RelativePath": "Transport/getArrival/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "fer.Controllers.TransportController",
+    "Method": "GetDepartureTime",
+    "RelativePath": "Transport/getDepartureTime/{id}/{lineIds}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "lineIds",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "fer.Controllers.TransportController",
+    "Method": "GetStopPoints",
+    "RelativePath": "Transport/searchStopPoints/{query}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

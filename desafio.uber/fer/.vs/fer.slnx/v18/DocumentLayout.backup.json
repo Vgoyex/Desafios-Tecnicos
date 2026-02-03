@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\___DesafiosTec\\desafio.uber\\fer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7C020F-B17E-9A94-A4BD-C67EA1C8DCA2}|fer\\fer.API.csproj|d:\\___desafiostec\\desafio.uber\\fer\\fer\\controllers\\transportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7C020F-B17E-9A94-A4BD-C67EA1C8DCA2}|fer\\fer.API.csproj|solutionrelative:fer\\controllers\\transportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A877E72-3599-45CC-9835-33D22BDB5E49}|fer.Application\\fer.Application.csproj|d:\\___desafiostec\\desafio.uber\\fer\\fer.application\\services\\transportlondonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A877E72-3599-45CC-9835-33D22BDB5E49}|fer.Application\\fer.Application.csproj|solutionrelative:fer.application\\services\\transportlondonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7C020F-B17E-9A94-A4BD-C67EA1C8DCA2}|fer\\fer.API.csproj|d:\\___desafiostec\\desafio.uber\\fer\\fer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7C020F-B17E-9A94-A4BD-C67EA1C8DCA2}|fer\\fer.API.csproj|solutionrelative:fer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7C020F-B17E-9A94-A4BD-C67EA1C8DCA2}|fer\\fer.API.csproj|d:\\___desafiostec\\desafio.uber\\fer\\fer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F7C020F-B17E-9A94-A4BD-C67EA1C8DCA2}|fer\\fer.API.csproj|solutionrelative:fer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F956BB-89AF-4E8C-ACF3-D9A65C9877AB}|fer.Domain\\fer.Domain.csproj|d:\\___desafiostec\\desafio.uber\\fer\\fer.domain\\responses\\departuretimeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F956BB-89AF-4E8C-ACF3-D9A65C9877AB}|fer.Domain\\fer.Domain.csproj|solutionrelative:fer.domain\\responses\\departuretimeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7C020F-B17E-9A94-A4BD-C67EA1C8DCA2}|fer\\fer.API.csproj|d:\\___desafiostec\\desafio.uber\\fer\\fer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F7C020F-B17E-9A94-A4BD-C67EA1C8DCA2}|fer\\fer.API.csproj|solutionrelative:fer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F956BB-89AF-4E8C-ACF3-D9A65C9877AB}|fer.Domain\\fer.Domain.csproj|d:\\___desafiostec\\desafio.uber\\fer\\fer.domain\\entities\\transportentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F956BB-89AF-4E8C-ACF3-D9A65C9877AB}|fer.Domain\\fer.Domain.csproj|solutionrelative:fer.domain\\entities\\transportentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer\\appsettings.json",
+              "RelativeDocumentMoniker": "fer\\appsettings.json",
+              "ToolTip": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer\\appsettings.json",
+              "RelativeToolTip": "fer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T21:10:27.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer\\Program.cs",
+              "RelativeDocumentMoniker": "fer\\Program.cs",
+              "ToolTip": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer\\Program.cs",
+              "RelativeToolTip": "fer\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:31:35.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "fer\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "fer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T19:22:43.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartureTimeResponse.cs",
+              "DocumentMoniker": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer.Domain\\Responses\\DepartureTimeResponse.cs",
+              "RelativeDocumentMoniker": "fer.Domain\\Responses\\DepartureTimeResponse.cs",
+              "ToolTip": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer.Domain\\Responses\\DepartureTimeResponse.cs",
+              "RelativeToolTip": "fer.Domain\\Responses\\DepartureTimeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:34:21.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransportEntity.cs",
+              "DocumentMoniker": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer.Domain\\Entities\\TransportEntity.cs",
+              "RelativeDocumentMoniker": "fer.Domain\\Entities\\TransportEntity.cs",
+              "ToolTip": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer.Domain\\Entities\\TransportEntity.cs",
+              "RelativeToolTip": "fer.Domain\\Entities\\TransportEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:26:31.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransportLondonService.cs",
+              "DocumentMoniker": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer.Application\\Services\\TransportLondonService.cs",
+              "RelativeDocumentMoniker": "fer.Application\\Services\\TransportLondonService.cs",
+              "ToolTip": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer.Application\\Services\\TransportLondonService.cs",
+              "RelativeToolTip": "fer.Application\\Services\\TransportLondonService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T22:51:01.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportController.cs",
+              "DocumentMoniker": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer\\Controllers\\TransportController.cs",
+              "RelativeDocumentMoniker": "fer\\Controllers\\TransportController.cs",
+              "ToolTip": "D:\\___DesafiosTec\\desafio.uber\\fer\\fer\\Controllers\\TransportController.cs",
+              "RelativeToolTip": "fer\\Controllers\\TransportController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:19:48.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

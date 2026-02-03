@@ -1,0 +1,25 @@
+Via front:
+navigator.geolocation.getCurrentPosition(pos => {
+  fetch("/api/location", {
+    method: "POST",
+    body: JSON.stringify({
+      lat: pos.coords.latitude,
+      lng: pos.coords.longitude
+    })
+  })
+})
+
+Via back:
+using System.Net.Http.Json;
+
+var ip = HttpContext.Connection.RemoteIpAddress?.ToString() || "81.2.69.142";
+ if (ip == "::1" || ip == "127.0.0.1")
+            return Ok("Localhost não possui geolocalização");
+var http = new HttpClient();
+var geo = await http.GetFromJsonAsync<dynamic>(
+    $"https://ipinfo.io/{ip}/json"
+);
+var city = geo.city;
+var region = geo.region;
+var country = geo.country;
+

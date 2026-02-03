@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path="ApoioGeolocation.txt" />
+    <File Path="fer/ApoioTransportLondon.txt" />
+    <Project Path="fer.Application/fer.Application.csproj" Id="4a877e72-3599-45cc-9835-33d22bdb5e49" />
+    <Project Path="fer.Domain/fer.Domain.csproj" Id="82f956bb-89af-4e8c-acf3-d9a65c9877ab" />
+    <Project Path="fer.Infra/fer.Infra.csproj" Id="0d541dd6-050d-4a55-842b-24da0f1ffc33" />
+    <Project Path="fer/fer.API.csproj" />
+  </Folder>
+</Solution>

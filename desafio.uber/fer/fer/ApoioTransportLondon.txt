@@ -1,0 +1,28 @@
+﻿Primary key
+170dbb4338604cee8652593843657bcd
+Secondary key
+2b74ffb52f224a13b4ec3b81c2f5398d
+
+Endpoint que usarei
+/StopPoint/{id}/ArrivalDepartures": {
+      "get": {
+        "tags": [
+          "StopPoint"
+        ],
+        "summary": "Gets the list of arrival and departure predictions for the given stop point id (overground, Elizabeth line and thameslink only)",
+        "operationId": "StopPoint_ArrivalDepartures",
+        "consumes": [],
+        "produces": [
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "A StopPoint id (station naptan code e.g. 940GZZLUASL, you can use /StopPoint/Search/{query} endpoint to find a stop point id from a station name)",
+            "required": true,
+            "type": "string"
+          }

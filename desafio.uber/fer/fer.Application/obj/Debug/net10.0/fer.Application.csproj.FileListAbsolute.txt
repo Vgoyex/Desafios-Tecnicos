@@ -1,0 +1,16 @@
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\bin\Debug\net10.0\fer.Application.deps.json
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\bin\Debug\net10.0\fer.Application.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\bin\Debug\net10.0\fer.Application.pdb
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\fer.Application.csproj.AssemblyReference.cache
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\fer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\fer.Application.AssemblyInfoInputs.cache
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\fer.Application.AssemblyInfo.cs
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\fer.Application.csproj.CoreCompileInputs.cache
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\fer.Application.sourcelink.json
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\fer.Application.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\refint\fer.Application.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\fer.Application.pdb
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\ref\fer.Application.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\bin\Debug\net10.0\fer.Domain.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\bin\Debug\net10.0\fer.Domain.pdb
+D:\___DesafiosTec\desafio.uber\fer\fer.Application\obj\Debug\net10.0\fer.Appl.857321DB.Up2Date

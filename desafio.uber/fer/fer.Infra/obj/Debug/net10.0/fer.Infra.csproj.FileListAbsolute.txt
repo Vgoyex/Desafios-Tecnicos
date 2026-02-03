@@ -1,0 +1,12 @@
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\bin\Debug\net10.0\fer.Infra.deps.json
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\bin\Debug\net10.0\fer.Infra.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\bin\Debug\net10.0\fer.Infra.pdb
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\obj\Debug\net10.0\fer.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\obj\Debug\net10.0\fer.Infra.AssemblyInfoInputs.cache
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\obj\Debug\net10.0\fer.Infra.AssemblyInfo.cs
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\obj\Debug\net10.0\fer.Infra.csproj.CoreCompileInputs.cache
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\obj\Debug\net10.0\fer.Infra.sourcelink.json
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\obj\Debug\net10.0\fer.Infra.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\obj\Debug\net10.0\refint\fer.Infra.dll
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\obj\Debug\net10.0\fer.Infra.pdb
+D:\___DesafiosTec\desafio.uber\fer\fer.Infra\obj\Debug\net10.0\ref\fer.Infra.dll

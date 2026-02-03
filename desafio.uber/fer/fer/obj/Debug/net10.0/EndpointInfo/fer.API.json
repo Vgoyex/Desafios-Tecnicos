@@ -1,0 +1,89 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "fer.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Transport/searchStopPoints/{query}": {
+      "get": {
+        "tags": [
+          "Transport"
+        ],
+        "parameters": [
+          {
+            "name": "query",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Transport/getArrival/{id}": {
+      "get": {
+        "tags": [
+          "Transport"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Transport/getDepartureTime/{id}/{lineIds}": {
+      "get": {
+        "tags": [
+          "Transport"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "lineIds",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { },
+  "tags": [
+    {
+      "name": "Transport"
+    }
+  ]
+}
